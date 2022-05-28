@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - I used cosine similarity approach for this purpose to generate recommendations, so there are big files getting used in this project, so if you want to push this project in your repo then use git lfs.
 
 ## Functionality of the webiste:
-This site will take user inputs that is the favourite movie name from the list (selectbox) in the site, then it shows swome deatils of that movie and top 5 similar movies for choosen movie. There is also a comment section for taking user reviews on the site.
+This site will take user inputs that is the favourite movie name from the list (selectbox) in the site, then it shows some deatils that is the poster of the movie, title , a short overview , top 3 cast's name , director name of that movie and top 5 similar movies for the choosen movie. There is also a comment section for taking user reviews on the site. User can copy and paste any recommended movie name to the selectbox and again see recommendations according to that movie.
 
 ## How to run the site in your local computer:
 - First of all clone the repo using https key , it may take time due to long files uploaded in this repo. 
