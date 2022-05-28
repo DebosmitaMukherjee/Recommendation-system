@@ -18,11 +18,12 @@ I used cosine similarity approach for this purpose to generate recommendations, 
 This site will take user inputs that is the favourite movie name from the list (selectbox) in the site, then it shows swome deatils of that movie and top 5 similar movies for choosen movie. There is also a comment section for taking user reviews on the site.
 
 ## How to run the site in your local computer:
-- First of all clone the repo using http key , then it may take time due to long files uploaded in this repo. 
+- First of all clone the repo using https key , it may take time due to long files uploaded in this repo. 
 - After that install all python libraries that is not already installed in your computer according to the version of python
 - Then it is completely fine to run only the app.py file from your terminal(*in the floder where all cloned files are*) with the command -
 ``` python -m streamlit run app.py ``` (*this is the command for windows , find appropreate command according to your operating system*) , if you want to only see the app working , as all the data preprocessing generated files are uploaded in this repo, and when you clone it all the files gets downloaded, other wise you can also run the .ipynb checkpoint file .
 - That's it!!! Now if there is no problem in installation in your computer , the app should run fine.
 
 ## Future scope of this site:
-In future this site can be connected to other real time advanced api realted to current or recent movies to do this same
+In future this site can be connected to other real time advanced api realted to current or recent movies to do this same.
+We can also stream realtime movies in this site. Also this idea of recommendation system can be used to make recommendations for other topics also such as- books , songs, recommendations system in e-commerce websites , recommendation engine for videos based on title, content , subtitles, popularity e.t.c.
