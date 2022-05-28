@@ -6,7 +6,7 @@ https://youtu.be/IdS42lESeVQ
 ## Datasets:
 Here is the link to the kaggel data sets for this project,please download this dataset from there to run the project in your local computer:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-*Please download both tmdb_5000_credits.csv and tmdb_5000_movies.csv both*
+(*Please download both tmdb_5000_credits.csv and tmdb_5000_movies.csv both ans make sure to keep them in the same directory where you have cloned the project*)
 
 ## Requirements:
 I have used python 3.7 for this project 
